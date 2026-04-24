@@ -216,6 +216,7 @@ This project is backed by a **peer-reviewed research paper** on:
 **DX-STAR**
 - GitHub: [@DX-STAR](https://github.com/DX-STAR)
 - Repository: [Research-Paper----FONET-Model](https://github.com/DX-STAR/Research-Paper----FONET-Model)
+- Paper Link: [Research-Paper](https://drive.google.com/file/d/1cY9xM4dUz56bLLmi02Qi_FDpqMemkk6h/view?usp=drive_link)
 
 ---
 
